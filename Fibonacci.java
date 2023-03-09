@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class cinco {
+public class Fibonacci {
     public static void main(String[] args) {
         System.out.println("\nInforme o numero: ");
         int n = s.nextInt(), cont1 = 0, cont2 = 1,cont3 = 0;
